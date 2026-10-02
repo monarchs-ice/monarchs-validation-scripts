@@ -1,0 +1,3 @@
+.ruff_cache/
+output/*.png
+data/

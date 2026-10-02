@@ -1,7 +1,7 @@
 # MONARCHS validation scripts
 
 Scripts used to generate some of the plots from our paper, *A Model for Antarctic Ice Shelf Hydrology and Stability (MONARCHS v1.0)* (https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3247/). This compares our model output to 
-data observed via satellite observations in *Moussavi et al. (2020)* (https://www.mdpi.com/2072-4292/12/1/134) and *Discherl et al. (2021)* (doi).
+data observed via satellite observations in *Moussavi et al. (2020)* (https://www.mdpi.com/2072-4292/12/1/134) and *Discherl et al. (2021)* (https://tc.copernicus.org/articles/15/5205/2021/tc-15-5205-2021-discussion.html).
 
 The main script used to generate the plots for each season can be found in `monarchs_val/run/run_peaks.py`. 
 
